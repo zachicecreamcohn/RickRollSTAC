@@ -21,13 +21,9 @@ If you stay on the WebSTAC home page for too long, this silly browser extension 
 
 
 ## SAMPLE
-### Before
+### Before/After
 
-<img src="https://drive.google.com/uc?export=download&id=1x4tXTQSDmHX82zj2NOU-aIeUDBfdtVHM">
-
-### After
-
-<img src="https://drive.google.com/uc?export=download&id=1GDRMKIsr5V2wur6DxWud7n7wc77BxHAg">
+<img src="https://drive.google.com/uc?export=download&id=1x4tXTQSDmHX82zj2NOU-aIeUDBfdtVHM"> <img src="https://drive.google.com/uc?export=download&id=1GDRMKIsr5V2wur6DxWud7n7wc77BxHAg">
 
 ---
 *Brilliant Idea by Sydney Hlavaty*
