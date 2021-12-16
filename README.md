@@ -16,7 +16,7 @@ If you stay on the WebSTAC home page for too long, this silly browser extension 
 5. On this page, toggle "Developer mode" on.
 6. On the top left, the option to "Load unpacked" will now be available. *Click it*.
 7. Navigate to the unzipped file from steps 1-3 and select it.
-8. That's it! Navigate to WebSTAC and give it a try.
+8. That's it! Navigate to [WebSTAC](https://acadinfo.wustl.edu/) and give it a try.
 
 ---
 
