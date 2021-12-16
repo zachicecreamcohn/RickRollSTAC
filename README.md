@@ -4,10 +4,6 @@ If you stay on the WebSTAC home page for too long, this silly browser extension 
 
 
 
-
-
-
-
 ## Installation Instructions
 1. Click the green, "Code" button on the top right.
 2. Click "Download ZIP"
@@ -22,6 +18,16 @@ If you stay on the WebSTAC home page for too long, this silly browser extension 
 
 ### *Please Note!*
 *In order for the audio to play, you must click somewhere (anywhere) on the WebSTAC page within the first 10 seconds of the page loading. If you do not do this, the GIF will load, but the audio will not play.*
+
+
+## SAMPLE
+### Before
+
+<img src="https://drive.google.com/uc?export=download&id=1x4tXTQSDmHX82zj2NOU-aIeUDBfdtVHM">
+
+### After
+
+<img src="https://drive.google.com/uc?export=download&id=1GDRMKIsr5V2wur6DxWud7n7wc77BxHAg">
 
 ---
 *Brilliant Idea by Sydney Hlavaty*
