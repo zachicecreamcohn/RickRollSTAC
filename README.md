@@ -3,7 +3,7 @@
 If you stay on the WebSTAC home page for too long, this silly browser extension changes your profile picture to a gif of Rick Astley and plays "Never Gonna Give You Up"
 
 
-*Inspired by Sydney Hlavaty*
+
 
 
 
@@ -22,3 +22,6 @@ If you stay on the WebSTAC home page for too long, this silly browser extension 
 
 ### *Please Note!*
 *In order for the audio to play, you must click somewhere (anywhere) on the WebSTAC page within the first 10 seconds of the page loading. If you do not do this, the GIF will load, but the audio will not play.*
+
+
+*Brilliant Idea by Sydney Hlavaty*
